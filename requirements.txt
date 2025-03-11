@@ -1,0 +1,9 @@
+streamlit
+requests
+PyPDF2
+beautifulsoup4
+google-generativeai
+serpapi
+typing
+python-dotenv
+fpdf
